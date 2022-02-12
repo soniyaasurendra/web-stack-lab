@@ -1,15 +1,15 @@
 {
     "securityemployeeInformation": [
         { "id": 1, "name": "somu", "age": "34", "address": "Bangalore", "designation": "manager", "salary": "200000" },
-        { "id": 2, "name": "joshi", "age": "34", "address": "Mysore", "designation": "security guard", "salary": "30000" },
-        { "id": 3, "name": "dhiren", "age": "34", "address": "Chennai", "designation": "security guard", "salary": "30000" },
-        { "id": 4, "name": "indra", "age": "34", "address": "Jp nagar", "designation": "cctv incharge", "salary": "25000" },
-        { "id": 5, "name": "ravi", "age": "34", "address": "Blore", "designation": "parking manager", "salary": "100000" },
-        { "id": 6, "name": "rahul", "age": "34", "address": "Mysore", "designation": "security guard", "salary": "30000" },
-        { "id": 7, "name": "kanth", "age": "34", "address": "chennai", "designation": "vehicle guard", "salary": "30000" },
-        { "id": 8, "name": "karan", "age": "34", "address": "Electronic", "designation": "vehicle guard", "salary": "30000" },
-        { "id": 9, "name": "kumar", "age": "34", "address": "kormangala", "designation": "security manager", "salary": "100000" },
-        { "id": 10, "name": "siva", "age": "34", "address": "VV puram", "designation": "security guard", "salary": "30000" }
+        { "id": 2, "name": "joshi", "age": "47", "address": "Mysore", "designation": "security guard", "salary": "30000" },
+        { "id": 3, "name": "dhiren", "age": "40", "address": "Chennai", "designation": "security guard", "salary": "30000" },
+        { "id": 4, "name": "indra", "age": "54", "address": "Jp nagar", "designation": "cctv incharge", "salary": "25000" },
+        { "id": 5, "name": "ravi", "age": "50", "address": "Blore", "designation": "parking manager", "salary": "100000" },
+        { "id": 6, "name": "rahul", "age": "45", "address": "Mysore", "designation": "security guard", "salary": "30000" },
+        { "id": 7, "name": "kanth", "age": "39", "address": "chennai", "designation": "vehicle guard", "salary": "30000" },
+        { "id": 8, "name": "karan", "age": "43", "address": "Electronic", "designation": "vehicle guard", "salary": "30000" },
+        { "id": 9, "name": "kumar", "age": "49", "address": "kormangala", "designation": "security manager", "salary": "100000" },
+        { "id": 10, "name": "siva", "age": "50", "address": "VV puram", "designation": "security guard", "salary": "30000" }
 
     ]
 }
